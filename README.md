@@ -42,3 +42,4 @@ A brief report summarizing insights discovered during the analysis.
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/ee18c1a8-8d82-4ac4-8082-f54597a1e583)
